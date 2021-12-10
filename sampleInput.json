@@ -1,0 +1,97 @@
+[{
+		"transactionId": 1,
+		"customerName": "Greg",
+		"amount": 120,
+		"transactionDate": "05-01-2019"
+	},
+	{
+		"transactionId": 2,
+		"customerName": "Greg",
+		"amount": 75,
+		"transactionDate": "05-21-2019"
+	},
+	{
+		"transactionId": 3,
+		"customerName": "Greg",
+		"amount": 94,
+		"transactionDate": "05-21-2019"
+	},
+	{
+		"transactionId": 4,
+		"customerName": "Greg",
+		"amount": 10,
+		"transactionDate": "06-01-2019"
+	},
+	{
+		"transactionId": 5,
+		"customerName": "Greg",
+		"amount": 75,
+		"transactionDate": "06-21-2019"
+	},
+	{
+		"transactionId": 6,
+		"customerName": "Greg",
+		"amount": 200,
+		"transactionDate": "07-01-2019"
+	},
+	{
+		"transactionId": 7,
+		"customerName": "Greg",
+		"amount": 1,
+		"transactionDate": "07-04-2019"
+	},
+	{
+		"transactionId": 8,
+		"customerName": "Greg",
+		"amount": 80,
+		"transactionDate": "07-03-2019"
+	},
+	{
+		"transactionId": 9,
+		"customerName": "Greg",
+		"amount": 224,
+		"transactionDate": "07-21-2019"
+	},
+	{
+		"transactionId": 10,
+		"customerName": "Tom",
+		"amount": 125,
+		"transactionDate": "05-01-2019"
+	},
+	{
+		"transactionId": 11,
+		"customerName": "Tom",
+		"amount": 75,
+		"transactionDate": "05-21-2019"
+	},
+	{
+		"transactionId": 12,
+		"customerName": "Tom",
+		"amount": 10,
+		"transactionDate": "06-01-2019"
+	},
+	{
+		"transactionId": 13,
+		"customerName": "Tom",
+		"amount": 75,
+		"transactionDate": "06-21-2019"
+	},
+	{
+		"transactionId": 14,
+		"customerName": "Tom",
+		"amount": 200,
+		"transactionDate": "07-01-2019"
+	},
+	{
+		"transactionId": 15,
+		"customerName": "Tom",
+		"amount": 224,
+		"transactionDate": "07-21-2019"
+	},
+	{
+		"transactionId": 16,
+		"customerName": "Taylor",
+		"amount": 120,
+		"transactionDate": "06-21-2019"
+	}
+]
